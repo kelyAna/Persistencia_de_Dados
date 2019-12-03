@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/asm-7.1.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/asm-analysis-7.1.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/asm-commons-7.1.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/asm-tree-7.1.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/asm-util-7.1.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/config-1.3.4.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/HdrHistogram-2.1.11.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/jackson-annotations-2.10.0.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/jackson-core-2.10.0.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/jackson-databind-2.10.0.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/java-driver-core-4.3.0.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/java-driver-shaded-guava-25.1-jre.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/jcip-annotations-1.0-1.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/jffi-1.2.19.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/jffi-1.2.19-native.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/jnr-a64asm-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/jnr-constants-0.9.12.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/jnr-ffi-2.1.10.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/jnr-posix-3.0.50.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/jnr-x86asm-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/metrics-core-4.0.5.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/native-protocol-1.4.7.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/netty-buffer-4.1.39.Final.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/netty-codec-4.1.39.Final.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/netty-common-4.1.39.Final.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/netty-handler-4.1.39.Final.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/netty-resolver-4.1.39.Final.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/netty-transport-4.1.39.Final.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/slf4j-api-1.7.26.jar"/>
+	<classpathentry kind="lib" path="/home/ana/Downloads/cassandra-java_driver-lib/cassandra-lib/spotbugs-annotations-3.1.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
