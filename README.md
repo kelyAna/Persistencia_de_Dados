@@ -2,12 +2,6 @@
 
 This repository has the works done in the discipline of Data Persistence, belonging to the semester 2019.2. The jobs are cruds using JSON and XML files, as well as the Cassandra and Hibernate database.
 
-## JSON
-
-![JSON](https://drive.google.com/file/d/193tU_lMSozru3Lue6bdZYWdLsRhogWwk/view?usp=sharing)
-
-In computing, JSON, an acronym for JavaScript Object Notation, is a compact, independent open standard format, for simple and fast data exchange between systems, specified by Douglas Crockford in 2000, which uses human-readable text, in the attribute- value.
-
 # Eclipse IDE installation
 
 ![Eclipse IDE](https://fernandofranzini.files.wordpress.com/2018/05/maxresdefault.jpg?w=400)
